@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_dee5d099adf7d1ed7feb694ff6586c082c838bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_e11c63c0bf37a3fdd6131670576e65e88c95b49d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_2c5e2f8a1e6462d37c7755ed7e3e6a1985778fe4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_dfb894445a3772639803732a26370bbbf6bf4209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_564632ec57eacb37cef03e3a4d736c0b92f19e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_bce5fef6979032b5d9c529d2e660037c3585603c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_affa7c69966a89e410b91faad5b8a2a256fc34e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_7ce9623f5a8429aaaf08c01d6197787b931d9c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_7a468c41a1d18551e723b871dd1b1aeb818cf0eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_4c5a2a0a753c50643dbcbc0a2e60bd3a4664fbda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_b8226025704b642879f78631e62aa77ac199f30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_36cc94a052de438efa06937588fd5d456c6bf04b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_721af677c2637ec1eea592647f5f268996a88167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="314d313755ac1c2ff09b59694bce688b96fca9ab">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e234a212f6851717bcd1d1ba81916f6ef1bed25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d117c2ee63674df367f045d30a77e2a6f3cb57d">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c875efd895d6c9a5f29cf166ed257be1a5cb96d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_51ca6f8bb8b9c49bdf16154041a0eade904bf543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_27ba376b084c1ab89ba6ecace3f3c44528d03046\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_3babdcd11ada02e1d40167c490e0f41144a66593\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_fd8de0b4df4419067a0ebbccd24ee25139d8a669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Users\rnoguera\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_7644eef2092752beeb631b304dccc8a6ed9229e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_a05c885690572ca8abb37c7ea832f81ba3e6f90b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_458312797285d7bba8083dda293a37779754e927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_7f3b97e98ae6ed22311dd013340fa05ba83a5860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\AndroidStudioProjects\ToDoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_7077bdc45bae8b10ad9e5898e040cf788af78d8d\classes.dex" />
+    </item>
+
+</items>
